@@ -1,4 +1,4 @@
-# Network-To-Graph-Tool
+# TOOL-Network-To-Graph
 Converts Multi-modal Network Features to graph format (nodes/links) using Arcpy  
  
 **Usage**  
